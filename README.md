@@ -1,10 +1,14 @@
-# Seguimiento ML
+# PyOptimizer - Gemini Skill 🐍
 
-Descripción del proyecto de Machine Learning.
+## Descripción
+PyOptimizer es una Skill basada en la IA de Gemini diseñada para analizar, refactorizar y optimizar código Python, aplicando convenciones PEP-8 y tipado estático.
 
-## Estructura
-- `index.html`: Página principal
-- `README.md`: Documentación del proyecto
+## ¿Cómo usar la Skill?
+1. Abre la interfaz de Gemini.
+2. Configura el System Prompt definido para esta Skill.
+3. Pega tu código Python sin optimizar.
 
-## Setup
-Instrucciones de configuración y uso.
+## Tecnologías Utilizadas
+* Gemini (LLM)
+* HTML/CSS (Landing Page en Antigravity)
+* Flow (Video)
